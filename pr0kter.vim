@@ -26,7 +26,7 @@ endif
 let g:colors_name="pedro"
 
 hi Normal       guifg=#003255 guibg=#e8ebf0 "greyish blue2
-hi NonText      guifg=#382920 guibg=#152555
+hi NonText      guifg=#382920 guibg=#9fc5e8
 
 " syntax highlighting """"""""""""""""""""""""""""""""""""""""
 
